@@ -1,0 +1,40 @@
+.dropdown{
+    left: 300px;
+}
+
+.navbar{
+    background-color: black ;
+}
+.navbar-brand{
+    color: green !important;
+    font-size:xx-large !important;
+}
+.nav-link{
+    color: white !important;
+}
+.div-content{
+    height: 300px;
+}
+.nm-prod{
+    font-size: xx-large;
+}
+.ruond-btn{
+    background-color: green;
+    border-radius: 15px;
+}
+.shopping{
+    background-color: black;
+    height: 50px;
+   display: flex;
+   justify-content : space-around;
+}
+.shop{
+    font-size: xx-large;
+    color: white;
+}
+.naaa{
+    color : white
+}
+.red{
+    color: red;
+}
